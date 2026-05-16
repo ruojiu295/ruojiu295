@@ -23,7 +23,7 @@
 
 <a href="你的力扣链接"><img src="https://img.shields.io/badge/LeetCode-algo--practice-darkblue?style=flat-square&logo=leetcode" alt="LeetCode"></a>
 -->
-<a href="mailto:ruojiu295@gmail.com"><img src="https://img.shields.io/badge/Gmail-Ivyovo01%40gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"></a>
+<a href="mailto:ruojiu295@gmail.com"><img src="https://img.shields.io/badge/Gmail-ruojiu295%40gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"></a>
 
 <img src="https://img.shields.io/badge/CSDN_Views-green?style=flat-square" alt="CSDN">
 
