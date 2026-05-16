@@ -26,7 +26,7 @@
 
 <a href="mailto:ruojiu295@gmail.com"><img src="https://img.shields.io/badge/Gmail-Ivyovo01%40gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"></a>
 
-<img src="https://img.shields.io/badge/CSDN_Views-1400K+-green?style=flat-square" alt="CSDN">
+<img src="https://img.shields.io/badge/CSDN_Views-green?style=flat-square" alt="CSDN">
 
 ### 🔗 Connect with Me
 
